@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/43fa8f120401689.60b0ee188565b.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ec8a44120401689.60b0e548c8a09.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ronnie James Torres</h1>
 <h3 align="center">A junior frontend developer from Brussels</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/99ce99120401689.60b0e547ef0ac.gif">
