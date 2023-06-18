@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronnie James Torres</h1>
 <h3 align="center">A junior frontend developer from Brussels</h3>
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/99ce99120401689.60b0e547ef0ac.gif">
+
+- 📫 How to reach me **ronniejamestorres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
